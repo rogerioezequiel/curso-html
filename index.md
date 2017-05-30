@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="Curriculo Rosane Brito Coelho">
+        <title>Rosane Brito Coelho</title>
+        
+    </head>
+    <body>
+        
+        
+        <h1>Rosane Brito Coelho</h1>
 
-You can use the [editor on GitHub](https://github.com/rogerioezequiel/curso-html/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+            <p>Rua: Rua das Flores, N°124 – Vila Carmela<br>
+            CEP: 07178-390 - Guarulhos - SP<br>
+            Tel:11 96085-5353<br> 
+            rosanebrito@gmail.com</p>
 
-### Markdown
+            <h2>Informações Pessoais.</h2> 
+            <p><b>Estado Civil:</b> Viúva</p> 
+            <p><b>Nacionalidade:</b> Brasileira</p>
+            <p><b>Idade:</b> 47 anos</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+            <h2>Objetivo profissional.</h2>
+            <p>A disposição da empresa.</p> 
 
-```markdown
-Syntax highlighted code block
+            <h2>Experiência Profissional</h2>
 
-# Header 1
-## Header 2
-### Header 3
+            <p><b>Agente escolar</b></p>  
+            <p>EPG Celso Furtado - Prefeitura de Guarulhos - Março de 2013 a Janeiro de 2017</p>
+            <p>Responsabilidades:</p> 
+            <p>Cuidadora de crianças, funções administrativas na secretaria, controladora de acesso, auxiliar de cozinha.</p>
 
-- Bulleted
-- List
+            <p><b>Ajudante geral</b></p> 
+            <p>Multibrink – Guarulhos, SP – Junho de 2011 a Dezembro de 2011</p>
+            <p>Responsabilidades:</p> 
+            <p>Montagem e limpeza dos bonecos.</p>
 
-1. Numbered
-2. List
+            <p><b>Ajudante geral de acabamento</b></p>  
+            <p>Zaraplast – Guarulhos, SP – Junho de 1991 a Abril de 1993</p>
+            <p>Responsabilidades:</p>
+            <p>Auxiliar de costura.</p>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+            <h2>Formação Acadêmica</h2> 
+            <p>Ensino médio completo.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+            <h2>Apresentação:</h2> 
 
-### Jekyll Themes
+            <p>Prezados Senhores,</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rogerioezequiel/curso-html/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+            <p>Em busca de nova proposta de trabalho, apresento-lhes meu currículo. Entre minhas características básicas encontram-se:</p> <p>Adaptabilidade, bom humor, dinamismo, responsabilidades, perfeccionismo, auto exigência, dedicação ao trabalho e bom relacionamento em geral.</p> 
+            <p>No aguardo de contato de sua parte, coloco-me à disposição para prestar-lhes mais esclarecimentos.</p>
 
-### Support or Contact
+            <p>Atenciosamente, Rosane Brito Coelho</p>
+        
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+        
+    </body>
+    
+</html>
